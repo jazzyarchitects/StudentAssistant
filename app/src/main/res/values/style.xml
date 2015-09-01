@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+    <style name="SubjectDetailDialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowAnimationStyle">@style/DialogAnimation</item>
+    </style>
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/zoom_in_animation</item>
+        <item name="android:windowExitAnimation">@anim/zoom_out_animation</item>
+    </style>
+
+    <style name="TimePickerDialog" parent="Material.Widget.TimePicker">
+        <item name="android:background">@color/themeColor1</item>
+        <item name="android:textColor">@color/themeColor3</item>
+    </style>
+
+</resources>

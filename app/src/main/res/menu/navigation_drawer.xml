@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/dailyTimeTable"
+            android:icon="@drawable/ic_action_calendar_day"
+            android:title="Today's Time Table" />
+
+        <item
+            android:id="@+id/timeTable"
+            android:icon="@drawable/ic_action_calendar_month"
+            android:title="Weekly Time Table" />
+
+        <item
+            android:id="@+id/subjectList"
+            android:icon="@drawable/ic_view_list_black_24dp"
+            android:title="All Subjects" />
+
+        <item
+            android:id="@+id/eventList"
+            android:icon="@drawable/ic_action_lab"
+            android:title="Events" />
+
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_action_settings"
+            android:title="Settings" />
+
+        <!--<item android:id="@+id/test"-->
+            <!--android:title="Test" />-->
+
+    </group>
+</menu>

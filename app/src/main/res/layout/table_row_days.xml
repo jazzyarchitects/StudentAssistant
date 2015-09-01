@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/borderColor"
+    android:minHeight="@dimen/cellMinHeight">
+
+    <View
+        android:layout_width="0dp"
+        android:layout_weight="0.75"
+        android:layout_height="@dimen/cellMinHeight"
+        android:layout_marginRight="1dp"
+        android:background="@color/emptyCellColor" />
+
+    <include
+        android:id="@+id/day1"
+        layout="@layout/table_cell_day"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="1dp"
+        android:layout_weight="1" />
+
+    <include
+        android:id="@+id/day2"
+        layout="@layout/table_cell_day"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="1dp"
+        android:layout_weight="1" />
+
+    <include
+        android:id="@+id/day3"
+        layout="@layout/table_cell_day"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="1dp"
+        android:layout_weight="1" />
+
+    <include
+        android:id="@+id/day4"
+        layout="@layout/table_cell_day"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="1dp"
+        android:layout_weight="1" />
+
+    <include
+        android:id="@+id/day5"
+        layout="@layout/table_cell_day"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="1dp"
+        android:layout_weight="1" />
+
+
+</TableRow>

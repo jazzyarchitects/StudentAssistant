@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Student Assistant</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hiUserText">Hey Jibin, have a great day</string>
+    <string name="quoteText">\"The day is bright, study tight\"</string>
+    <string name="todayText">ITS TUESDAY...</string>
+    <string name="subjectCount">You have 4 classes today</string>
+    <string name="assignmentCount">Yipee...No assignments due...</string>
+    <string name="bunkedClasses">Bunked Classes: 5</string>
+    <string name="attendancePercentage">Attendance: 85%</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="title_activity_time_table">Time Table</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="noSubject">No Subjects&#8230;!!!\nAre you sure that you are a student??</string>
+    <string name="noEvent">No Events entered!!</string>
+    <string name="chooseSubject">Choose a color for easy identification of the subject</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_subject">AddSubject</string>
+    <string name="title_activity_time_setting">Timings</string>
+    <string name="timeSetting_classCount">Classes in a day:</string>
+    <string name="timeSetting_headingText">Class Timings</string>
+    <string name="timeSetting_classDuration">Class duration (in min)</string>
+    <string name="timeSetting_dayCount">Working days in a week</string>
+    <string name="tableRestructuring_Alert">You have changed the number of days in a week or number of classes in a day. This will delete the current time table.
+         \nSubjects will not be affected. \nDo you want to continue?</string>
+    <string name="title_activity_add_event">Add Event</string>
+
+    <string name="day_schedule_class_notification_title_template">Day schedule class: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="day_schedule_class_notification_placeholder_text_template">You said %1$s and lorem
+        ipsum dolor sit amet, consectetur adipiscing elit. Etiam non enim magna. Morbi dictum, velit
+        vel semper venenatis, magna odio volutpat velit, at ullamcorper nulla lacus sed turpis.
+        Pellentesque vitae metus elit, nec tincidunt tellus. Integer sed nisl sem, ullamcorper
+        ornare lacus. Duis ac mauris sed massa congue volutpat. Donec sed erat sit amet turpis
+        viverra rhoncus sit amet nec magna. Donec lacinia ligula at libero volutpat volutpat nec nec
+        tortor.
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+    <string name="action_dismiss">Dismiss</string>
+</resources>

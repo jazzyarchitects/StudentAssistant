@@ -1,0 +1,28 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="homeScreenUserPicSize">100dp</dimen>
+    <dimen name="selectionConnectorHeight">15dp</dimen>
+    <dimen name="cellMinHeight">50dp</dimen>
+    <dimen name="assignmentIconSize">15dp</dimen>
+    <dimen name="colorStripWidth">7dp</dimen>
+
+    <dimen name="dayCellHeight">37dp</dimen>
+
+    <dimen name="colorIndicatorSize">7dp</dimen>
+
+    <dimen name="tableWidth">540dp</dimen>
+
+
+    <dimen name="navigationDrawerWidth">280dp</dimen>
+    <dimen name="dailyTimeTableSubjectWidth">200dp</dimen>
+    <dimen name="dailyTimeTableLabelWidth">75dp</dimen>
+    <dimen name="floatingActionButtonSize">50dp</dimen>
+    <dimen name="timeSetting_classCount_textSize">@dimen/timeSettingDefaultTextSize</dimen>
+    <dimen name="timeSettingDefaultTextSize">16sp</dimen>
+    <dimen name="timeSetting_headingTextSize">@dimen/defaultTitleSize</dimen>
+    <dimen name="defaultTitleSize">18sp</dimen>
+    <dimen name="timeSetting_classDuration_textSize">@dimen/timeSettingDefaultTextSize</dimen>
+    <dimen name="timeSetting_dayCount_textSize">@dimen/timeSettingDefaultTextSize</dimen>
+</resources>
